@@ -1,7 +1,7 @@
 # Tasks App PostgreSql
-
-## Comenzando 🚀
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+
+![](docs/Screenshot1.png)
 
 ### Pre-requisitos
 Cosas que necesitas para instalar el software
